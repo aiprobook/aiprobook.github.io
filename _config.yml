@@ -12,17 +12,6 @@ timezone: null
 lsi: false
 markdown: kramdown
 
-
-### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-
-
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
@@ -33,6 +22,15 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
+
+### content configuration ###
+title:       "Interactive Programming for Articial Intelligence Book Series"
+keywords:    "Programming, CUDA, GPU, Clojure, Deep Learning, Machine Learning, Java, Intel, Nvidia, AMD, CPU, High Performance Computing, Linear Algebra, OpenCL"
+description: "Interactive Programming for Articial Intelligence Book Series"
+source_link: "https://github.com/uncomplicate"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:
+
 kramdown:
   auto_ids:  false
-

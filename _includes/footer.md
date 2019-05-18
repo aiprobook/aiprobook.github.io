@@ -1,8 +1,3 @@
+Copyright 2019 [Dragan Djuric](https://dragan.rocks)
 
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Made with Tim O'Brien's SinglePage theme
