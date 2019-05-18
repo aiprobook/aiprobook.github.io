@@ -18,14 +18,14 @@
   <div id="main">
 
     <nav><ul>
-      {% for node in site.categories.dlfp reversed %}
+      {% for node in site.categories.deep-learning-for-programmers reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
 
 
-    {% for page in site.categories.dlfp reversed %}
+    {% for page in site.categories.deep-learning-for-programmers reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
@@ -60,5 +60,5 @@
 {% include analytics.html %}
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="site.js"></script>
+<script src="/site.js"></script>
 </html>
