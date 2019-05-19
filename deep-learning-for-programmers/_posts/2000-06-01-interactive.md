@@ -7,15 +7,15 @@ fa-icon: user
 
 # immediate dynamic feedback
 
-## see the result of executing each line
-## experiment in a live environment
+#### see the result of executing each line
+#### experiment in a live environment
 
-## no C++ build hell
+#### no C++ build hell
 
-# no C++!
+### no C++!
 
-## Java Virtual Machine, but without Java boilerplate
+#### Java Virtual Machine, but without Java boilerplate
 
-## Clojure, the nicest language on earth :-)
+#### Clojure, the nicest language on earth :-)
 
 # no C++!!!

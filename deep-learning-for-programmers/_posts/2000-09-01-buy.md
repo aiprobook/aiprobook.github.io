@@ -7,20 +7,18 @@ fa-icon: smile-o
 
 # subscribe now for early access
 
-### read drafts now
+#### read drafts now
 
-### get new chapters as soon as they are written
+#### get new chapters as soon as they are written
 
-## all revenue goes towards funding my work on open-source libraries used in the book
+#### all revenue goes towards funding my work on open-source libraries used in the book
 
 # subscription perks
 
-### name in the acknowledgments
+#### name in the acknowledgments
 
-### special copies with a personalized thank you note
+#### special copies with a personalized thank you note
 
-### personalized handcrafted hardcovers for chapter sponsors
+#### personalized handcrafted hardcovers for chapter sponsors
 
-## the book will be distributed through subscription only
-
-# get in early and help make this book awesome!
+## get in early and help make this book awesome!
