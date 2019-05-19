@@ -3,7 +3,7 @@ title: "No Middleman"
 bg: deepskyblue
 color: white
 style: center
-fa-icon: check-square-o
+fa-icon: users
 ---
 
 # no middleman!
