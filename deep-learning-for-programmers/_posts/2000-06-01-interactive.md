@@ -8,7 +8,7 @@ fa-icon: user
 # immediate dynamic feedback
 
 ## see the result of executing each line
-## experiment in the live environment
+## experiment in a live environment
 
 ## no C++ build hell
 
