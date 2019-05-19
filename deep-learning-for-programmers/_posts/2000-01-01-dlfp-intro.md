@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning For Programmers"
+title: "The Book"
 bg: tomato
 color: white
 style: center

@@ -1,5 +1,5 @@
 ---
-title: "Interactive Programming for Artificial Intelligence"
+title: "AI Programming"
 bg: white
 color: black
 style: center
