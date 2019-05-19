@@ -30,7 +30,7 @@ description: "Interactive Programming for Articial Intelligence Book Series"
 source_link: "https://github.com/uncomplicate"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key:
+google_analytics_key: UA-85700071-3
 
 kramdown:
   auto_ids:  false
