@@ -24,10 +24,10 @@ colors:
 
 
 ### content configuration ###
-title:       "Interactive Programming for Articial Intelligence Book Series: Deep Learning for Programmers"
+title:       "Interactive Programming for Articial Intelligence Book Series - Deep Learning for Programmers"
 keywords:    "Programming, CUDA, GPU, Clojure, Deep Learning, Machine Learning, Java, Intel, Nvidia, AMD, CPU, High Performance Computing, Linear Algebra, OpenCL"
-description: "Interactive Programming for Articial Intelligence Book Series"
-source_link: "https://github.com/uncomplicate"
+description: "Interactive Programming for Articial Intelligence Book Series - Deep Learning for Programmers"
+source_link: "https://github.com/aiprobook"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-85700071-3
