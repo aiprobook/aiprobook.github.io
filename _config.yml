@@ -30,6 +30,8 @@ description: "A book series on Programming, CUDA, GPU, Clojure, Deep Learning, M
 source_link: "https://github.com/aiprobook"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
+image: "/img/dlfp-cover.png"
+
 google_analytics_key: UA-85700071-3
 
 kramdown:
