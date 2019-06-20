@@ -1,7 +1,7 @@
 ---
 title: "For Programmers"
 bg: '#242124'
-color: plum
+color: deepskyblue
 style: left
 fa-icon: terminal
 ---

@@ -1,10 +1,11 @@
 ---
-title: "Deep Learning"
+title: "More Books"
 bg: '#242124'
-color: plum
+color: deepskyblue
 style: center
-fa-icon: graduation-cap
+fa-icon: book
 ---
+
 ### Deep Learning for Programmers
 ### [click here to read why, and download](/deep-learning-for-programmers)
 

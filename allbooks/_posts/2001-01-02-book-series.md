@@ -7,7 +7,7 @@ style: center
 # Interactive Programming for Artificial Intelligence
 
 #### a book series
-## learn technical topics related to artificial intelligence
+## learn programming skills related to artificial intelligence
 #### interactive coding experience
 
 ### when you code it you will *understand* it

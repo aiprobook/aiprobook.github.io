@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning"
-bg: indigo
-color: white
+bg: mediumslateblue
+color: ivory
 fa-icon: graduation-cap
 ---
 

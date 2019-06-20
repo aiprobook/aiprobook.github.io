@@ -1,7 +1,7 @@
 ---
 title: "Subscribe"
-bg: midnightblue
-color: white
+bg: '#242124'
+color: plum
 fa-icon: smile-o
 ---
 

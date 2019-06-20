@@ -1,6 +1,6 @@
 ---
 title: "No Middleman"
-bg: mediumslateblue
+bg: deepskyblue
 color: ivory
 style: center
 fa-icon: users

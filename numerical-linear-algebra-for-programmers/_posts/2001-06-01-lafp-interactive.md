@@ -1,7 +1,7 @@
 ---
 title: "Interactive"
 bg: '#242124'
-color: plum
+color: deepskyblue
 fa-icon: user
 ---
 
