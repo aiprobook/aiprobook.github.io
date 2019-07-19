@@ -25,9 +25,9 @@ fa-icon: book
 
 #### Linear transformations ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
-### Part 3: High performance matrix computations (SOON)
+### Part 3: High performance matrix computations (IN PROGRESS)
 
-#### Use matrices efficiently (SOON)
+#### Use matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 #### Linear systems and factorization (SOON)
 
