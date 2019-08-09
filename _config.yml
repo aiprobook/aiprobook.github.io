@@ -4,7 +4,6 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
@@ -31,6 +30,64 @@ source_link: "https://github.com/uncomplicate"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 image: "img/dlfp-cover.png"
+dlfp_image: "img/dlfp-cover.png"
+lafp_image: "img/lafp-cover.png"
+
+dlfp_title:       "Deep Learning for Programmers | New Book Chapter Available! "
+dlfp_description: "Deep Learning for Programmers: An Interactive Tutorial with CUDA, OpenCL, MKL-DNN, Java, and Clojure.
+
+basically…
+
+* the only DL book for programmers
+
+* interactive & dynamic
+
+* step-by-step implementation
+
+* incredible speed
+
+* yet, No C++ hell (!)
+
+* Nvidia GPU (CUDA and cuDNN)
+
+* AMD GPU (yes, OpenCL too!)
+
+* Intel & AMD CPU (MKL-DNN)
+
+* Clojure (magic!)
+
+* Java Virtual Machine (without Java boilerplate!)
+
+* complete source code
+
+* beautiful typesetting (see sample chapters below)"
+
+lafp_title:       "Numerical Linear Algebra for Programmers | New Book Chapter Available"
+lafp_description: "Numerical Linear Algebra for Programmers: An Interactive Tutorial with GPU, CUDA, OpenCL, MKL, Java, and Clojure
+
+basically…
+
+* a book for programmers
+
+* interactive & dynamic
+
+* direct link from theory to implementation
+
+* incredible speed
+
+* Nvidia GPU (CUDA and cuBLAS)
+
+* AMD GPU (yes, OpenCL too!)
+
+* Intel & AMD CPU (MKL)
+
+* Clojure (magic!)
+
+* Java Virtual Machine (without Java boilerplate!)
+
+* complete source code
+
+* beautiful typesetting (see sample chapters below)"
 
 google_analytics_key: UA-85700071-3
 
