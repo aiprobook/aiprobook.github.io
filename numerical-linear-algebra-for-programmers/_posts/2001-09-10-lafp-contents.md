@@ -29,7 +29,7 @@ fa-icon: book
 
 #### Use matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
-#### Linear systems and factorization (SOON)
+#### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 #### Orthogonalization and least squares (SOON)
 
