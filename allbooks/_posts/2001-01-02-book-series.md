@@ -7,10 +7,10 @@ style: center
 # Interactive Programming for Artificial Intelligence
 
 #### a book series
-## learn programming skills related to artificial intelligence
-#### interactive coding experience
+## learn artificial intelligence programming skills
+#### an interactive coding experience
 
-### when you code it you will *understand* it
+### when you code it, you *understand* it
 
 <span id="forkongithub">
   <a href="{{ site.source_link }}" class="bg-blue">

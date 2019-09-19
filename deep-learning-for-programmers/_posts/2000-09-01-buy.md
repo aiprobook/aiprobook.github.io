@@ -9,15 +9,15 @@ fa-icon: smile-o
 
 #### read drafts now
 
-#### get new chapters as soon as they are written
+#### get new chapters as they are written
 
-#### all [revenue](https://www.patreon.com/deep_learning) goes towards funding my work on open-source libraries used in the book
+#### all [revenue](https://www.patreon.com/deep_learning) goes towards funding my work on the open source libraries used in the book
 
 # [subscription perks](https://www.patreon.com/deep_learning)
 
-#### name in the acknowledgments
+#### your name in the book's acknowledgments
 
-#### special copies with a personalized thank you note
+#### special copy with a personalized thank you note
 
 #### personalized handcrafted hardcovers for chapter sponsors
 

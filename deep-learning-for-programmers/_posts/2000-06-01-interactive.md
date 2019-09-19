@@ -12,10 +12,10 @@ fa-icon: user
 
 #### no C++ build hell
 
-### no C++!
+### no C++ syntax hell!
 
 #### Java Virtual Machine, but without Java boilerplate
 
 #### Clojure, the nicest language on earth :-)
 
-# no C++!!!
+# no C++ at all!!!
