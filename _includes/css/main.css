@@ -111,7 +111,7 @@ hr {
 
 /* ----- top menu ----- */
 
-{% assign navborder = 3 %}
+{% assign navborder = 6 %}
 {% assign navborder_active = 6 %}
 
 nav {

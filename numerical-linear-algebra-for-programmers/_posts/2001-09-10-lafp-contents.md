@@ -27,7 +27,7 @@ fa-icon: book
 
 ### Part 3: High performance matrix computations (IN PROGRESS)
 
-#### Use matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Using matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 #### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
@@ -37,9 +37,9 @@ fa-icon: book
 
 #### GPU computing crash course
 
-#### CUDA and cuBLAS on Nvidia GPU
+#### CUDA and cuBLAS on Nvidia GPUs
 
-#### OpenCL and CLBlast on AMD GPU
+#### OpenCL and CLBlast on AMD GPUs
 
 ### Part 5: In practice
 
