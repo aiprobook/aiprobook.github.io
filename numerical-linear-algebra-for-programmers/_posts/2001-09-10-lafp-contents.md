@@ -51,6 +51,6 @@ fa-icon: book
 
 #### Principal component analysis
 
-### Appendices
+### Appendix
 
 #### Setting up the environment and the JVM
