@@ -25,13 +25,13 @@ fa-icon: book
 
 #### Linear transformations ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
-### Part 3: High performance matrix computations (IN PROGRESS)
+### Part 3: High performance matrix computations ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 #### Using matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 #### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
-#### Orthogonalization and least squares (SOON)
+#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 ### Part 4: GPU acceleration
 
@@ -41,13 +41,13 @@ fa-icon: book
 
 #### OpenCL and CLBlast on AMD GPUs
 
-### Part 5: In practice
+### Part 5: In practice (SOON)
 
-#### Random matrices
+#### Random matrices (SOON)
 
-#### Mean and variance
+#### Mean and variance (SOON)
 
-#### Broadcasting
+#### Broadcasting (SOON)
 
 #### Principal component analysis
 
