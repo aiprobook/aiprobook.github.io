@@ -32,6 +32,8 @@ touch_icon:  "img/apple-touch-icon.png"
 image: "img/dlfp-cover.png"
 dlfp_image: "img/dlfp-cover.png"
 lafp_image: "img/lafp-cover.png"
+dlfp_url: "deep-learning-for-programmers"
+lafp_url: "numerical-linear-algebra-for-programmers"
 
 dlfp_title:       "Deep Learning for Programmers | New Book Chapter Available! "
 dlfp_description: "Deep Learning for Programmers: An Interactive Tutorial with CUDA, OpenCL, MKL-DNN, Java, and Clojure.
