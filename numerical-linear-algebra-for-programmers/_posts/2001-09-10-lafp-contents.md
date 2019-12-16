@@ -43,7 +43,7 @@ fa-icon: book
 
 ### Part 5: In practice (SOON)
 
-#### Random matrices (SOON)
+#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra))
 
 #### Mean and variance (SOON)
 
