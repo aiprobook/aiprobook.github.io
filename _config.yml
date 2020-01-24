@@ -36,7 +36,7 @@ dlfp_url: "deep-learning-for-programmers"
 lafp_url: "numerical-linear-algebra-for-programmers"
 
 dlfp_title:       "Deep Learning for Programmers | New Book Chapter Available! "
-dlfp_description: "Deep Learning for Programmers: An Interactive Tutorial with CUDA, OpenCL, MKL-DNN, Java, and Clojure.
+dlfp_description: "Deep Learning for Programmers: An Interactive Tutorial with CUDA, OpenCL, DNNL, Java, and Clojure.
 
 basically…
 
@@ -54,7 +54,7 @@ basically…
 
 * AMD GPU (yes, OpenCL too!)
 
-* Intel & AMD CPU (MKL-DNN)
+* Intel & AMD CPU (DNNL)
 
 * Clojure (magic!)
 

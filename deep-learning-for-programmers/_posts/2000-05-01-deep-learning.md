@@ -13,7 +13,7 @@ fa-icon: graduation-cap
 #### run it on the GPU!
 #### design an elegant neural network API
 #### add tensor support
-#### integrate with Intel's MKL-DNN and Nvidia's cuDNN performance libraries
+#### integrate with Intel's DNNL and Nvidia's cuDNN performance libraries
 #### learn the nuts and bolts
 #### build convolutional layers
 #### build RNN support
