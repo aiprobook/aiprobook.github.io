@@ -15,23 +15,23 @@ fa-icon: book
 
 #### Polymorphic acceleration (SOON)
 
-### Part 2: Linear algebra refresher ([AVAILABLE](https://www.patreon.com/linear_algebra))
+### Part 2: Linear algebra refresher ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=20))
 
-#### Vector spaces ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Vector spaces ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=21))
 
-#### Eigenvalues and eigenvectors ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Eigenvalues and eigenvectors ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=22))
 
-#### Matrix transformations ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Matrix transformations ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=23))
 
-#### Linear transformations ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Linear transformations ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=24))
 
-### Part 3: High performance matrix computations ([AVAILABLE](https://www.patreon.com/linear_algebra))
+### Part 3: High performance matrix computations ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=40))
 
-#### Using matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Using matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=41))
 
-#### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=42))
 
-#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=43))
 
 ### Part 4: GPU acceleration
 
@@ -43,11 +43,11 @@ fa-icon: book
 
 ### Part 5: In practice (SOON)
 
-#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra))
+#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=51))
 
 #### Mean and variance (SOON)
 
-#### Broadcasting (SOON)
+#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=53))
 
 #### Principal component analysis
 
