@@ -41,13 +41,17 @@ fa-icon: book
 
 #### OpenCL and CLBlast on AMD GPUs
 
-### Part 5: In practice (SOON)
+### Part 5: In practice ([IN PROGRESS](https://www.patreon.com/linear_algebra?ref=50))
 
 #### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=51))
 
-#### Mean and variance (SOON)
+#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=52))
 
-#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=53))
+#### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=53))
+
+#### Similarity
+
+#### Batch normalization
 
 #### Principal component analysis
 
