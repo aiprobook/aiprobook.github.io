@@ -31,7 +31,9 @@ fa-icon: book
 
 #### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=42))
 
-#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=43))
+#### Singular value decomposition (SVD) ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=43))
+
+#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=44))
 
 ### Part 4: GPU acceleration
 
@@ -49,11 +51,7 @@ fa-icon: book
 
 #### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=53))
 
-#### Similarity
-
-#### Batch normalization
-
-#### Principal component analysis
+#### Principal component analysis (JUST AROUND THE CORNER)
 
 ### Appendix
 
