@@ -51,7 +51,7 @@ fa-icon: book
 
 #### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=53))
 
-#### Principal component analysis (JUST AROUND THE CORNER)
+#### Principal component analysis (PCA) ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=54))
 
 ### Appendix
 
