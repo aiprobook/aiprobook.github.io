@@ -7,9 +7,9 @@ fa-icon: book
 ---
 ## Table of Contents
 
-### Part 1: Getting Started (SOON)
+### Part 1: Getting Started ([IN PROGRESS](https://www.patreon.com/linear_algebra?ref=10))
 
-#### Hello world (SOON)
+#### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=11))
 
 #### Vectors, matrices, and linear algebra API (SOON)
 
@@ -43,7 +43,7 @@ fa-icon: book
 
 #### OpenCL and CLBlast on AMD GPUs
 
-### Part 5: In practice ([IN PROGRESS](https://www.patreon.com/linear_algebra?ref=50))
+### Part 5: In practice ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=50))
 
 #### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=51))
 
