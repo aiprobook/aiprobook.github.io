@@ -11,7 +11,7 @@ fa-icon: book
 
 #### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=11))
 
-#### Vectors, matrices, and linear algebra API (SOON)
+#### Vectors, matrices, and Neanderthal API ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=12))
 
 #### Polymorphic acceleration (SOON)
 
