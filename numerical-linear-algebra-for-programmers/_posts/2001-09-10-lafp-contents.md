@@ -7,13 +7,13 @@ fa-icon: book
 ---
 ## Table of Contents
 
-### Part 1: Getting Started ([IN PROGRESS](https://www.patreon.com/linear_algebra?ref=10))
+### Part 1: Getting Started ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=10))
 
 #### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=11))
 
 #### Vectors, matrices, and Neanderthal API ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=12))
 
-#### Polymorphic acceleration (SOON)
+#### Polymorphic acceleration ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=13))
 
 ### Part 2: Linear algebra refresher ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=20))
 
@@ -35,23 +35,17 @@ fa-icon: book
 
 #### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=44))
 
-### Part 4: GPU acceleration
+### Part 4: In practice ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=50))
 
-#### GPU computing crash course
+#### GPU computing crash course ([SOON](https://www.patreon.com/linear_algebra?ref=41))
 
-#### CUDA and cuBLAS on Nvidia GPUs
+#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=42))
 
-#### OpenCL and CLBlast on AMD GPUs
+#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=43))
 
-### Part 5: In practice ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=50))
+#### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=44))
 
-#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=51))
-
-#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=52))
-
-#### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=53))
-
-#### Principal component analysis (PCA) ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=54))
+#### Principal component analysis (PCA) ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=45))
 
 ### Appendix
 
