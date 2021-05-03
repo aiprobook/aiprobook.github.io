@@ -37,7 +37,7 @@ fa-icon: book
 
 ### Part 4: In practice ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=50))
 
-#### GPU computing crash course ([SOON](https://www.patreon.com/linear_algebra?ref=41))
+#### GPU computing crash course ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=41))
 
 #### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=42))
 
@@ -49,4 +49,4 @@ fa-icon: book
 
 ### Appendix
 
-#### Setting up the environment and the JVM
+#### Setting up the environment and the JVM ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=51))
