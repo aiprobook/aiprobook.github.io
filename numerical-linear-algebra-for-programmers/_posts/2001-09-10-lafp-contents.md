@@ -9,11 +9,13 @@ fa-icon: book
 
 ### Part 1: Getting Started ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=10))
 
-#### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=11))
+#### Introduction ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=11))
 
-#### Vectors, matrices, and Neanderthal API ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=12))
+#### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=12))
 
-#### Polymorphic acceleration ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=13))
+#### Vectors, matrices, and Neanderthal API ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=13))
+
+#### Polymorphic acceleration ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=14))
 
 ### Part 2: Linear algebra refresher ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=20))
 
