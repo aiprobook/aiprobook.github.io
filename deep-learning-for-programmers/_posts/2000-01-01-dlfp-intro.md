@@ -6,6 +6,8 @@ style: center
 ---
 ### Deep Learning for Programmers (*402 pages*)
 
+Full book available. Version 2.0 in development!
+
 ![Interactive Programming for Artificial Intelligence series; Deep Learning for Programmers: An Interactive Tutorial with CUDA, OpenCL, MKL-DNN, Java, and Clojure](/img/dlfp-cover.png)
 
 ### aren't these surfers adorable? the book is too!
