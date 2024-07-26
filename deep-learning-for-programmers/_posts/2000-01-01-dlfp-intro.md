@@ -4,7 +4,7 @@ bg: mediumslateblue
 color: ivory
 style: center
 ---
-### Deep Learning for Programmers (*438 pages*)
+### Deep Learning for Programmers (*460 pages*)
 
 The 2nd edition available!
 
