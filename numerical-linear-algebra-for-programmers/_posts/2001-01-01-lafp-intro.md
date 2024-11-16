@@ -4,7 +4,7 @@ bg: deepskyblue
 color: ivory
 style: center
 ---
-###
+### .
 ### Numerical Linear Algebra for Programmers
 
 ## Second Edition available
