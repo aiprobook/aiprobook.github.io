@@ -6,6 +6,7 @@ style: center
 ---
 ### Numerical Linear Algebra for Programmers
 
+## Second Edition available
 ![Interactive Programming for Artificial Intelligence series; Numerical Linear Algebra for Programmers: An Interactive Tutorial with GPUs, CUDA, OpenCL, MKL, Java, and Clojure](/img/lafp-cover.png)
 
 ### aren't these two friends adorable? the book is too!
