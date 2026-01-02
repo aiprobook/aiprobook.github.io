@@ -7,48 +7,48 @@ fa-icon: book
 ---
 ## Table of Contents
 
-### Part 1: Getting Started ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=10))
+### Part 1: Getting Started ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=10))
 
-#### Introduction ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=11))
+#### Introduction ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=11))
 
-#### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=12))
+#### Hello world ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=12))
 
-#### Vectors, matrices, and Neanderthal API ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=13))
+#### Vectors, matrices, and Neanderthal API ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=13))
 
-#### Polymorphic acceleration ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=14))
+#### Polymorphic acceleration ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=14))
 
-### Part 2: Linear algebra refresher ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=20))
+### Part 2: Linear algebra refresher ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=20))
 
-#### Vector spaces ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=21))
+#### Vector spaces ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=21))
 
-#### Eigenvalues and eigenvectors ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=22))
+#### Eigenvalues and eigenvectors ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=22))
 
-#### Matrix transformations ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=23))
+#### Matrix transformations ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=23))
 
-#### Linear transformations ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=24))
+#### Linear transformations ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=24))
 
-### Part 3: High performance matrix computations ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=40))
+### Part 3: High performance matrix computations ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=40))
 
-#### Using matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=41))
+#### Using matrices efficiently ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=41))
 
-#### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=42))
+#### Linear systems and factorization ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=42))
 
-#### Singular value decomposition (SVD) ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=43))
+#### Singular value decomposition (SVD) ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=43))
 
-#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=44))
+#### Orthogonalization and least squares ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=44))
 
-### Part 4: In practice ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=50))
+### Part 4: In practice ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=50))
 
-#### GPU computing crash course ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=41))
+#### GPU computing crash course ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=41))
 
-#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=42))
+#### Generating random matrices ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=42))
 
-#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=43))
+#### Broadcasting ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=43))
 
-#### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=44))
+#### Mean, variance, and correlation ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=44))
 
-#### Principal component analysis (PCA) ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=45))
+#### Principal component analysis (PCA) ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=45))
 
 ### Appendix
 
-#### Setting up the environment and the JVM ([AVAILABLE](https://www.patreon.com/linear_algebra?ref=51))
+#### Setting up the environment and the JVM ([AVAILABLE](https://www.patreon.com/linear_algebra/join?ref=51))

@@ -12,10 +12,10 @@ style: center
 
 ### aren't these two friends adorable? the book is too!
 
-### [get the book now](https://www.patreon.com/linear_algebra){: .myButton}
+### [get the book now](https://www.patreon.com/linear_algebra/join){: .myButton}
 
 #### or scroll down to read the pitch, download sample chapters,
-#### [subscribe later](https://www.patreon.com/linear_algebra) and read the whole draft :)
+#### [subscribe later](https://www.patreon.com/linear_algebra/join) and read the whole draft :)
 
 <span id="forkongithub">
   <a href="{{ site.source_link }}" class="bg-blue">
